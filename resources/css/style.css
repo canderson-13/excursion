@@ -14,3 +14,24 @@ p.link {
     color: aquamarine;
     font-size: 16px;
 }
+
+p {
+    text-align: center;
+    font-size: 21;
+    color: gray;
+}
+
+figure {
+    text-align: center;
+}
+
+h2 {
+    text-align: center;
+    color: white;
+    font-weight: 300;
+    font-size: 42px;
+}
+
+footer p {
+    text-align: right;
+}
